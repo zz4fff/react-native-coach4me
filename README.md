@@ -3,16 +3,17 @@
 ### Um app completo com back-end, front-end e versão mobile, desenvolvido na Especialização em Desenvolvimento Web e Mobile do [Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais - Campus Rio Pomba](https://www.ifsudestemg.edu.br/riopomba).
 
 ## Tecnologias envolvidas:
+- Axios
+- Expo
+- Figma
+- Imnsonia
+- Next.JS
+- Node.JS
 - React
 - React-native
-- Node.JS
-- Next.JS
-- Expo
-- Yarn
-- Imnsonia
-- Figma
-- Axios
+- SQLite
 - Visual Studio Code
+- Yarn
 
 ## Projeto no Figma
 
