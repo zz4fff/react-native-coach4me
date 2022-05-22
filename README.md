@@ -16,7 +16,7 @@
 
 ## Projeto no Figma
 
-A versão do projeto Web no Figam pode ser acessado clicando [aqui](https://www.figma.com/file/d4ky2gqo1qg2VCWK8iyrya/Coach-4-Me-Web?node-id=0%3A1) e a versão Mobile pode ser acessada clicando [aqui](https://www.figma.com/file/P2oCrdJyOlt4J7zz12CktZ/Coach-4-Me-Mobile).
+A versão do projeto Web no Figma pode ser acessado clicando [aqui](https://www.figma.com/file/d4ky2gqo1qg2VCWK8iyrya/Coach-4-Me-Web?node-id=0%3A1) e a versão Mobile pode ser acessada clicando [aqui](https://www.figma.com/file/P2oCrdJyOlt4J7zz12CktZ/Coach-4-Me-Mobile).
 
 ## Solução de problemas
 
